@@ -18,16 +18,16 @@ export default function FloatingNavDemo() {
       icon: <IconBook className="h-5 w-5 text-neutral-500 dark:text-white" />,
     },
     {
-      name: "FAQ",
-      link: "",
-      id: "faq",
-      icon: <IconUser className="h-5 w-5 text-neutral-500 dark:text-white" />,
-    },
-    {
       name: "Contribute",
       link: "",
       id: "contribute",
       icon: <IconMessageCircle className="h-5 w-5 text-neutral-500 dark:text-white" />,
+    },
+    {
+      name: "FAQ",
+      link: "",
+      id: "faq",
+      icon: <IconUser className="h-5 w-5 text-neutral-500 dark:text-white" />,
     },
     {
       name: "Contact",
